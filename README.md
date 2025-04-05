@@ -1,2 +1,1 @@
-# E--learning
-CampusConnect is a full-featured Web2-based e-learning platform tailored for college environments. It bridges the gap between students, faculty, and administration by offering powerful tools for course management, real-time performance tracking, lecture delivery, assignment submission, and more. 
+CampusConnect is a next-generation web-based e-learning platform designed specifically for colleges to streamline academic workflows and enhance learning experiences. With dedicated portals for admins, faculty, and students, the platform centralizes course creation, lecture sharing, assignment management, grading, and performance tracking — all under one roof.
